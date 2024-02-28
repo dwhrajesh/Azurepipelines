@@ -1,0 +1,10 @@
+28/02/2024 00:06:45	This log contains information about the import schema operation into project 'Adv_db_dep' on computer 'DAVINYA-LAPTOP' by user 'Davinya'.
+28/02/2024 00:06:45	Deserializing model
+28/02/2024 00:06:45	Resolving model
+28/02/2024 00:06:45	Visiting imported model for types
+28/02/2024 00:06:46	Scanning project for duplicate elements
+28/02/2024 00:06:46	Finished duplicate element processing
+28/02/2024 00:06:47	Processing extra files
+28/02/2024 00:06:47	Finished importing Data-tier Application file.
+28/02/2024 00:06:47	A summary of the import was saved to the following location: D:\AzureCICD\Adventure\Adv_db_dep\Import Schema Logs\Adv_db_dep_20240228120645.log
+28/02/2024 00:06:47	Click Finish to continue...
